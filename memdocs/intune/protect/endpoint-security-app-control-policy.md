@@ -166,6 +166,7 @@ Before the policy has any effect, you must create and deploy an App Control for 
 
 For more information, see [Allow apps installed by a managed installer](/windows/security/threat-protection/windows-defender-application-control/configure-authorized-apps-deployed-with-a-managed-installer) in the Windows Security documentation.
 
+
 ### Remove the Intune Management Extension as a managed installer
 
 Should you need to, you can stop configuring the Intune Management Extension as a managed installer for your tenant. This requires you to turn off the managed installer policy. After the policy is turned off, you can choose to use additional clean-up actions.
